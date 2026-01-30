@@ -7,7 +7,7 @@ const levels = [
         emoji: "👋",
         steps: [
             {
-                mascot: "🐱",
+                mascot: "Insert robot",
                 instruction: "The print() function outputs text to the console. It takes arguments inside parentheses. String literals (text data) must be wrapped in quotes ('single' or \"double\"). Without quotes, Python interprets the content as code (variables or keywords).",
                 mission: "Use print() to output the string 'Hello World'",
                 hint: "Syntax: print('Hello World')",
