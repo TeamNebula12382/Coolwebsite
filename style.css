@@ -351,6 +351,7 @@ h1 {
 }
 
 .code-input {
+    height: 400px;
     width: 100%;
     min-height: 200px;
     background: #252526;
